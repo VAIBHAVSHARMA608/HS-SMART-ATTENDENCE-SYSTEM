@@ -33,4 +33,4 @@ API : POSTMAN
 For contributions just rate my project and contact me on my e-mail.
 
 📧 Contact
-Suggestions make me more confident, please contact us at vaibhavattri77@gmail.com M
+Suggestions make me more confident, please contact us at vaibhavattri77@gmail.com 
