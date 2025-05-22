@@ -21,8 +21,8 @@ HR & Management: Comprehensive oversight of institutional operations, including 
 🛠️ Technologies Used
 Frontend: React.js, Bootstrap, HTML, CSS
 
-Backend: Node.js, Express.js
-GitHub
+Backend: Node.
+Deployement : GitHub
 
 Database: MongoDB
 API : POSTMAN
